@@ -1,5 +1,5 @@
 # randomjokes
-This website will generate a random joke from any category when you click on the Button.
+This is a fully responsive website which will generate a random joke from any category when you click on the Button.
 This Website uses V2 joke api to get random joke JSON Data.
 You can view the website by clicking on the link.
 The website is created using HTML, CSS and Vanilla Javascript
